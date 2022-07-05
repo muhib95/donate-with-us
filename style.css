@@ -43,13 +43,20 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 20px;
+}
+.donate-box2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+ 
 }
 
 .donate-today{
-  width: 700px;
-  height: 800px;
+  width:80%;
+  height: 400px;
 }
 .donate-text h1{
   text-align: center;
@@ -73,8 +80,8 @@ body{
 }
 .input-div input{
   text-align: center;
-  margin-left: 10px;
-  width: 680px;
+  margin-left: 150px;
+  width: 780px;
   height: 30px;
   margin-bottom: 15px;
 }
@@ -89,4 +96,68 @@ body{
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
+}
+.donate-plan1{
+  margin-left: 20px;
+  background-color: bisque;
+  width: 1000px;
+  height: 300px;
+}
+.donate-plan1 img{
+  margin-left: 15px;
+  margin-top: 30px;
+
+}
+.donate-plan1 h2,p{
+  text-align: left;
+  padding-left: 20px;
+
+}
+.donate-plan2{
+  margin-left: 20px;
+  background-color: rgb(182, 105, 11);
+  width: 1000px;
+  height: 300px;
+}
+.donate-plan2 img{
+  margin-left: 15px;
+  margin-top: 30px;
+
+}
+.donate-plan2 h2,p{
+  text-align: left;
+  padding-left: 20px;
+
+}
+.donate-plan3{
+  margin-left: 20px;
+  background-color: rgb(8, 148, 153);
+  width: 1000px;
+  height: 300px;
+}
+.donate-plan3 img{
+  margin-left: 15px;
+  margin-top: 30px;
+
+}
+.donate-plan3 h2,p{
+  text-align: left;
+  padding-left: 20px;
+
+}
+footer{
+  margin-top: 90px;
+  background-color: black;
+  color: white;
+}
+footer h6{
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.h2-color{
+  color: orangered;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 0;
 }
