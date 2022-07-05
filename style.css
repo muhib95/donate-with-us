@@ -39,3 +39,54 @@ body{
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
 }
+.donate-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.donate-today{
+  width: 700px;
+  height: 800px;
+}
+.donate-text h1{
+  text-align: center;
+}
+.donate-text p{
+  text-align: center;
+}
+.donate-tk{
+  margin-left: 10px;
+  background-color: bisque;
+  width: 150px;
+  height: 100px;
+}
+.donate-tk h2{
+  text-align: center;
+  padding: 8px;
+}
+.tk-value{
+  border: 2px solid red;
+  background-color: lightcoral;
+}
+.input-div input{
+  text-align: center;
+  margin-left: 10px;
+  width: 680px;
+  height: 30px;
+  margin-bottom: 15px;
+}
+.input-div a{
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  background-color: orangered;
+  margin-left: 40%;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
