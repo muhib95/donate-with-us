@@ -208,3 +208,9 @@ color: orangered;
   border-bottom-right-radius: 8px;
   
 }
+.extra{
+  display: flex;
+  margin-right: 5px;
+  justify-content: right;
+  justify-items: right;
+}
