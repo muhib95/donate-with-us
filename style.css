@@ -188,8 +188,15 @@ color: orangered;
   background-color: azure;
   border: 2px solid azure;
   padding: 5px 10px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
   
 
+}
+.form-part{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
 }
 .update-form input[type=submit]{
   color: white;
@@ -197,5 +204,7 @@ color: orangered;
   background-color: orangered;
   border: 2px solid orangered;
   padding: 5px 10px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
   
 }
