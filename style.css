@@ -193,6 +193,7 @@ color: orangered;
 }
 .update-form input[type=submit]{
   color: white;
+  cursor: pointer;
   background-color: orangered;
   border: 2px solid orangered;
   padding: 5px 10px;
